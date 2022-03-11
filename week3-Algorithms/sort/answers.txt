@@ -1,0 +1,22 @@
+sort1 uses: Bubble sort
+
+How do you know?: It in the average scenario, performs less better than sort2 and similar to sort3,
+so it is the bubble sort alg.
+best case:   0.681s
+avg case:    8.0s
+
+
+sort2 uses: Merge sort
+
+How do you know?: In the average scenario, it is by far the best sorting alg., so it is the mergesort
+best case:  0.691s
+avg case:   1.0s
+
+
+sort3 uses: Selection sort
+
+How do you know?: In the best case scenario (i.e. trying to sort an already list of values),
+the selection sort has a complexity of (n^2), the biggest among the sorting algorithms presented.
+
+best case: 3.4s
+avg case:  3.8s
